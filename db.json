@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": " Rayzen 7 ",
+      "username": "Digital",
+      "email": "Open@live",
+      "phone": "45 days",
+      "website": "4th generation processor",
+      "id": 14
+    },
+    {
+      "name": " Rayzen 5",
+      "username": "Digital",
+      "email": "Open@live",
+      "phone": "45 day",
+      "website": "5th generation ",
+      "id": 15
+    },
+    {
+      "name": " Rayzen 3 4800X",
+      "username": "Digital",
+      "email": "Open@live",
+      "phone": "40 days",
+      "website": "4 core",
+      "id": 16
+    }
+  ]
+}
